@@ -32,7 +32,7 @@ git clone https://github.com/Jyotisaini-2001/Editor
 Move into the project folder:
 
 ```bash
-cd draft-editor
+cd Editor
 ```
 
 ### **4. Install Dependencies**
